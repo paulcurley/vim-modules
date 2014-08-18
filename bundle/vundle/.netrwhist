@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/paulcurley/Development/curleyandbracket'
+let g:netrw_dirhist_2='/Users/paulcurley/Development/berrygoodthings'
+let g:netrw_dirhist_3='/Users/paulcurley/Development/berrygoodthings/features'
+let g:netrw_dirhist_4='/Users/paulcurley/Development/berrygoodthings'
+let g:netrw_dirhist_5='/Users/paulcurley/Development/berrygoodthings/public'
